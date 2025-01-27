@@ -14,11 +14,8 @@
 - **Other Skills:** Git/GitHub, 
 
 ## 🌟 Featured Projects
-- [**Data Encryption and Decryption with AES**](https://github.com/yourusername/project-link)  
+- [**Data Encryption and Decryption with AES**](https://ulyxfsy.github.io/Repository_Sy/)  
   *Developed a tool to encrypt and decrypt a simple data with AES, leveraging Python cryptography libraries*
-
-- [**Password Manager with Encryption**](https://github.com/yourusername/project-link)  
-  *Built a secure password manager that encrypts and stores credentials, leveraging Python cryptography libraries.*
 
 
 ## 📫 Get in Touch
