@@ -17,6 +17,8 @@
 - [**Data Encryption and Decryption with AES**](https://ulyxfsy.github.io/Repository_Sy/)  
   *Developed a tool to encrypt and decrypt a simple data with AES, leveraging Python cryptography libraries*
 
+- [**Simple Keylogger using C++**](https://ulyxfsy.github.io/Repository_Sy/)  
+  *Description: A lightweight keylogger program developed in C++ to capture and log keystrokes for educational purposes. This project demonstrates how keylogging works and emphasizes ethical use for security research and learning.*
 
 ## 📫 Get in Touch
 - **Email:** susyifaa@gmail.com  
