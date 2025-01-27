@@ -23,7 +23,7 @@
 
 ## 📫 Get in Touch
 - **Email:** susyifaa@gmail.com  
-- **LinkedIn:** ([https://linkedin.com/in/SharifahUlyan](https://www.linkedin.com/in/sharifahulyan-syifaa-a73a682b9/))
+- **LinkedIn:** ([https://linkedin.com/in/SharifahUlyan](www.linkedin.com/in/sharifahulyan-syifaa-a73a682b9))
 
 
 ## My github stats
