@@ -1,9 +1,12 @@
 
-### Hi, I'm Syifaa!
+## Hi, I'm Syifaa!
 
 👩🏻‍💻 2nd Year Cybersecurity Student<br/>
 👩🏻‍🎓 Studied Computer Science at the Universiti Tenaga Nasional, Malaysia<br/>
 
+## 📄 Resume
+[Click here to view my resume](https://ulyxfsy.github.io/resume_/)
+ 
 ## 🔧 Technical Skills
 - **Programming Languages:** Python, C++, Bash scripting , Java, HTML, CSS 
 - **Cybersecurity Tools:** Wireshark 
