@@ -3,7 +3,6 @@
 
 👩🏻‍💻 2nd Year Cybersecurity Student<br/>
 👩🏻‍🎓 Studied Computer Science at the Universiti Tenaga Nasional<br/>
-I'm currently on the look out for intership opportunities!
  
 ## 🔧 Technical Skills
 - **Programming Languages:** Python, C++, Bash scripting , Java, HTML, CSS 
